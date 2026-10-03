@@ -10,9 +10,7 @@ function App() {
 {/* Navbar */}
 <nav className="navbar">
 
-  <a href="#home" className="logo">
-    Bhasker<span>.</span>
-  </a>
+ 
 
   <div className={`nav-links ${menuOpen ? "open" : ""}`}>
 
